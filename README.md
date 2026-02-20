@@ -1,7 +1,10 @@
-# Hi, I'm Sravani 👋 **Lead Engineer at HCL Technologies | Transitioning into Data & Business Analytics
+# Hi, I'm Sravani 👋 *
 
 
-** With 5 years of experience in **Embedded Systems** and growing expertise in **Business Analytics**, my career bridges engineering excellence with data‑driven insights. I am now focusing on transitioning fully into **Data & Business Analytics**, showcasing projects that combine technical problem‑solving with impactful business outcomes.
+**Lead Engineer at HCL Technologies | Transitioning into Data & Business Analytics**
+
+
+With 5 years of experience in **Embedded Systems** and growing expertise in **Business Analytics**, my career bridges engineering excellence with data‑driven insights. I am now focusing on transitioning fully into **Data & Business Analytics**, showcasing projects that combine technical problem‑solving with impactful business outcomes.
 
 
 ## 🔧 Skills
