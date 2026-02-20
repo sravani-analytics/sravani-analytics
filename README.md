@@ -1,4 +1,4 @@
-# Hi, I'm Sravani 👋 *
+# Hi, I'm Sravani 👋 
 
 
 **Lead Engineer at HCL Technologies | Transitioning into Data & Business Analytics**
