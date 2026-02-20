@@ -26,6 +26,9 @@ With 5 years of experience in **Embedded Systems** and growing expertise in **Bu
 ### Power BI
 - [ShopNest Store Performance Dashboard](./shopnest-store-performsnce-dashboard)
 
+### Excel Dashboard
+- [ShopNest Store Performance Dashboard](https://github.com/sravani-analytics/sales-customer-analysis)
+
 
 ---
 
